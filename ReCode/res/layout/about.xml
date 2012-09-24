@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mỗi ngày tôi đều dành thời gian đọc sách,
+         làm bài tập, viết mã hoặc chứng minh một cái gì đó. Không
+          ai bắt tôi phải làm những chuyện đó. Có những thứ tôi học cũng
+           không (hoặc chưa) có liên quan gì đến công việc. Tôi học chỉ 
+           vì tôi thích và tò mò. Tôi học vì tôi muốn hiểu thêm những thứ mà 
+           tôi cho là hay ho. Tôi học vì tôi muốn đi mãi, đi mãi, đi đến tận 
+           cùng những cái mà người ta viết trong sách, 
+           để xem ở đó có gì hay không bởi nó như gợi ra 
+           cách để trở thành một người - như anh bây giờ."
+        
+        
+        />
+    
+
+</LinearLayout>
